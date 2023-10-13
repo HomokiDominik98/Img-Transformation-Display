@@ -2,10 +2,10 @@
 Image displayer application, that enables the user to select from different image transformation methods, which will be applied to the original image and displayed next to each other.
 
 Requirements:
-python 3.11.5
-PyQt5            5.15.9
-opencv-python    4.8.1.78
-imutils          0.5.4
+- python 3.11.5
+- PyQt5            5.15.9
+- opencv-python    4.8.1.78
+- imutils          0.5.4
 
 You can find all the libraries and their specific versions used in the virtual environment in the requirements.txt file. You only need to install the libaries listed above, the rest will be automatically installed along them
 
